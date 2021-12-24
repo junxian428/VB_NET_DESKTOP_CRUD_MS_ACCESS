@@ -1,0 +1,12 @@
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\bin\Debug\VB_GUI_MS_ACCESS.exe.config
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\bin\Debug\VB_GUI_MS_ACCESS.exe
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\bin\Debug\VB_GUI_MS_ACCESS.pdb
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\bin\Debug\VB_GUI_MS_ACCESS.xml
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.vbproj.AssemblyReference.cache
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.Resources.resources
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.vbproj.GenerateResource.cache
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.vbproj.CoreCompileInputs.cache
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.exe
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.xml
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.pdb
+C:\Users\USer\source\repos\VB_GUI_MS_ACCESS\VB_GUI_MS_ACCESS\obj\Debug\VB_GUI_MS_ACCESS.Form1.resources
